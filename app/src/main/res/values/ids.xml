@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="faqCardId" type="id" />
+    <item name="todoCardId" type="id" />
+    <item name="chatCardId" type="id" />
+    <item name="productsCardId" type="id" />
+    <item name="eclassCardId" type="id" />
+    <item name="newsCardId" type="id" />
+    <item name="todo_Card" type="id" />
+</resources>
